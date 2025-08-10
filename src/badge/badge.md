@@ -6,18 +6,6 @@ Markdownファイルにバッジの下にあるコードをコピー＆ペース
 ## 注意事項
 - **このバッジはあなたのプロジェクトのライセンス情報を完全に置き換えるものではなく**、ユーザーが一目でライセンスを確認できるよう、READMEのエンブレムとしてのみ使用できます。
 
-翻訳: **(翻訳が最新かどうかは保証しません)**
-- [:fr: Cette liste en français](https://gist.github.com/Helmasaur/fb8ca2c08131c58341d443b43672a1f5)  
-- [:cn::taiwan: 这个中文名单](https://gist.github.com/JethroLee/dd777676d30064fa62a65f514d23f601)  
-- [:brazil::portugal: Esta lista em Português](https://gist.github.com/Gaboso/fb5b15558959cecbf16a0c8993577a57)  
-- [:de::beer: Diese Liste auf Deutsch](https://gist.github.com/lukas-h/40df8fcbac877be380591787e4af996c)  
-- [:kr: 한국어로 된 이 목록](https://gist.github.com/6londe/570bd9ef76656f578fbd4783c5b798fc)  
-- [:ru: Этот список на русском языке](https://gist.github.com/dadyarri/92283b5cddbc66285d9c86a904998f4f) 
-- [:it: Questo elenco in italiano](https://gist.github.com/teo330/9a8f8c2097fc0005755ae5e3465b4b0c)
-- [:es: Esta lista en español](https://gist.github.com/FrederickBor/541146913e39898b494160bb7fbd9490)  
-- [:tr: Bu liste Türkçe](https://gist.github.com/NaytSeyd/bcfbc0a82ba49fdab64c375db458665a)  
-- [:jp: 日本語版リスト](https://gist.github.com/LiuToki/c383dd2ffcf3d03b43bbf26bdf39332b)  
-
 さらに詳しい情報:
 - バッジは[Shields.io](http://shields.io/)で作られています。
 - GithubにLICENSEファイルの自動検出機能が追加され、リポジトリの概要にライセンスが表示されるようになりました。
@@ -166,3 +154,4 @@ fork元の[gist](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)にコメ�
 ### The Unlicense
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)  
 `[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)`
+
