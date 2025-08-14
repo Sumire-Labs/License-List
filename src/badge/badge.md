@@ -12,9 +12,6 @@ Markdownファイルにバッジの下にあるコードをコピー＆ペース
 - Shields.ioはライセンスバッジを自動生成しています: `https://img.shields.io/github/license/<Github-Username>/<Repository>`
 - 素晴らしいサイト: https://choosealicense.com/ (どのライセンスを選べばいいのかわからない場合)
 
-### ライセンスを追加したいですか？
-fork元の[gist](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)にコメントするか、作成者にメール([lukas@himsel.me](mailto:lukas@himsel.me))で連絡してください。
-
 ## Apache
 ### Apache 2.0 License
 [![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)  
@@ -154,4 +151,5 @@ fork元の[gist](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)にコメ�
 ### The Unlicense
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)  
 `[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)`
+
 
